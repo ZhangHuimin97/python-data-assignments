@@ -15,12 +15,16 @@ Data of homes in Seoul on Airbnb
 
 ## Analysis Dimension
 What kinds of home are the most common?
+
 What are the top 5 homes with higher comments and cheaper price?
+
 Is there any connection between the price and equipment of homes? 
  
 ## Limitations and Weakness
 Without in-depth knowledge of homes for tourists.
+
 The story point in the report are not newsworthy enough.
+
 The visualization part could be better.
 
 ## License
