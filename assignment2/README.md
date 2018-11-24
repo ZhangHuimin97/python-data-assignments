@@ -8,7 +8,7 @@ Please read the report notebook [here](https://nbviewer.jupyter.org/github/Zhang
 
 ## Data Set
 
-Data of homes in Seoul on Airbnb
+[Data of homes in Seoul on Airbnb](https://github.com/ZhangHuimin97/python-data-assignments/blob/master/assignment2/result.csv)
 
 ## Data Volume
 109
