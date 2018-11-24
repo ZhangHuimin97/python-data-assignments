@@ -2,7 +2,7 @@
 
 In the recent years, Airbnb has been an important website for people to book rooms. For example, homes in Seoul on Airbnb are popular. People prefer homes desgined for a couple or one person. In addition, it is suprising that the price of homes is not related with their euipment. 
 
-Please read the report notebook[here](https://nbviewer.jupyter.org/github/ZhangHuimin97/python-data-assignments/blob/master/assignment2/analysis.ipynb) 
+Please read the report notebook [here](https://nbviewer.jupyter.org/github/ZhangHuimin97/python-data-assignments/blob/master/assignment2/analysis.ipynb) 
 
 # Data Analysis
 
