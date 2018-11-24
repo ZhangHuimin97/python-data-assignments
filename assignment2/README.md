@@ -4,7 +4,7 @@ In the recent years, Airbnb has been an important website for people to book roo
 
 Please read the report notebook [here](https://nbviewer.jupyter.org/github/ZhangHuimin97/python-data-assignments/blob/master/assignment2/analysis.ipynb) 
 
-# Data Analysis
+# Data Analysis:
 
 ## Data Set
 
