@@ -1,7 +1,27 @@
 # Brief Introduction:
 
-In the past 70 years, Airplane has been an important tool for people to travel long distances. According to IATA annual report In 2016, the major aviation accident rate was 0.39, which was equivalent to only one major accident happen in every 2.56 million flights. This seemingly safe number is built on countless blood and sweat. Step down and turn back a little bit, let’s count the successes and failures in the flying history.
+In the recent years, Airbnb has been an important website for people to book rooms. For example, homes in Seoul on Airbnb are popular. People prefer homes desgined for a couple or one person. In addition, it is suprising that the price of homes is not related with their euipment. 
 
-Please read the report notebook here.
+Please read the report notebook[here](https://nbviewer.jupyter.org/github/ZhangHuimin97/python-data-assignments/blob/master/assignment2/analysis.ipynb) 
 
-Please read the report notebook https://nbviewer.jupyter.org/github/ZhangHuimin97/python-data-assignments/blob/master/assignment2/analysis.ipynb
+# Data Analysis
+
+## Data Set
+
+Data of homes in Seoul on Airbnb
+
+## Data Volume
+109
+
+## Analysis Dimension
+What kinds of home are the most common?
+What are the top 5 homes with higher comments and cheaper price?
+Is there any connection between the price and equipment of homes? 
+ 
+## Limitations and Weakness
+Without in-depth knowledge of homes for tourists.
+The story point in the report are not newsworthy enough.
+The visualization part could be better.
+
+## License
+cc 4.0
