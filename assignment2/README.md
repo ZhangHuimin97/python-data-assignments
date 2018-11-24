@@ -4,28 +4,28 @@ In the recent years, Airbnb has been an important website for people to book roo
 
 Please read the report notebook [here](https://nbviewer.jupyter.org/github/ZhangHuimin97/python-data-assignments/blob/master/assignment2/analysis.ipynb) 
 
-# Data Analysis:
+## Data Analysis:
 
-## Data Set
+### Data Set
 
 [Data of homes in Seoul on Airbnb](https://github.com/ZhangHuimin97/python-data-assignments/blob/master/assignment2/result.csv)
 
-## Data Volume
+### Data Volume
 109
 
-## Analysis Dimension
+### Analysis Dimension
 What kinds of home are the most common?
 
 What are the top 5 homes with higher comments and cheaper price?
 
 Is there any connection between the price and equipment of homes? 
  
-## Limitations and Weakness
+### Limitations and Weakness
 Without in-depth knowledge of homes for tourists.
 
 The story point in the report are not newsworthy enough.
 
 The visualization part could be better.
 
-## License
+### License
 cc 4.0
