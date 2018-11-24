@@ -5,10 +5,15 @@ This dataset contains some homes in Seoul on Airbnb website pages(page2 to page7
 
 ## Data fields
 name - String. e.g. 5秒到地铁(东庙站)｡东大门地区｡10分到明洞
+
 Feature - String. e.g. String. 整套公寓
+
 Layout - String. e.g. 1室1卫1床
+
 Price - Int. e.g. 462
+
 Comment - Int. e.g. 110
+
 Equipment - Int. e.g. 无线网络 厨房 洗衣机 
 
 ## Data Volume
